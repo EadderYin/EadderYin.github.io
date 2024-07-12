@@ -1,0 +1,2 @@
+# Pages
+Blog pages.
